@@ -10,7 +10,7 @@
 	</parent>
 	<artifactId>microservice</artifactId>
 	<name>microservice</name>
-	<description>demo hexagon microservice</description>
+	<description>demo hexagonal microservice</description>
 	<packaging>jar</packaging>
 
 	<properties>
