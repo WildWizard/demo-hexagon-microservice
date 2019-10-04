@@ -1,7 +1,0 @@
-br\com\microservice\MicroserviceApplication.class
-br\com\microservice\input\rest\MicroserviceController.class
-br\com\microservice\output\database\RepositoryMessagePort.class
-br\com\microservice\dto\EchoDTO.class
-br\com\microservice\output\database\io\MessageEntity.class
-br\com\microservice\core\SaveMessageImpl.class
-br\com\microservice\core\SaveMessagePort.class

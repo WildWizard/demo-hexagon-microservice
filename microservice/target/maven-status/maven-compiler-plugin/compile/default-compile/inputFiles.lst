@@ -1,7 +1,0 @@
-C:\Dev\Workspace\demo-hexagon-microservice\microservice\src\main\java\br\com\microservice\input\rest\MicroserviceController.java
-C:\Dev\Workspace\demo-hexagon-microservice\microservice\src\main\java\br\com\microservice\MicroserviceApplication.java
-C:\Dev\Workspace\demo-hexagon-microservice\microservice\src\main\java\br\com\microservice\core\SaveMessageImpl.java
-C:\Dev\Workspace\demo-hexagon-microservice\microservice\src\main\java\br\com\microservice\core\SaveMessagePort.java
-C:\Dev\Workspace\demo-hexagon-microservice\microservice\src\main\java\br\com\microservice\dto\EchoDTO.java
-C:\Dev\Workspace\demo-hexagon-microservice\microservice\src\main\java\br\com\microservice\output\database\io\MessageEntity.java
-C:\Dev\Workspace\demo-hexagon-microservice\microservice\src\main\java\br\com\microservice\output\database\RepositoryMessagePort.java
