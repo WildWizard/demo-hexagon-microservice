@@ -1,0 +1,12 @@
+c:\Dev\Workspace\demo-hexagonal-microservice\microservice\src\main\java\br\com\microservice\domain\dto\EchoDTO.java
+c:\Dev\Workspace\demo-hexagonal-microservice\microservice\src\main\java\br\com\microservice\infrastructure\io\RepositoryMessageImpl.java
+c:\Dev\Workspace\demo-hexagonal-microservice\microservice\src\main\java\br\com\microservice\application\rest\MicroserviceController.java
+c:\Dev\Workspace\demo-hexagonal-microservice\microservice\src\main\java\br\com\microservice\infrastructure\mapper\MessageMapper.java
+c:\Dev\Workspace\demo-hexagonal-microservice\microservice\src\main\java\br\com\microservice\domain\dto\MessageDTO.java
+c:\Dev\Workspace\demo-hexagonal-microservice\microservice\src\main\java\br\com\microservice\domain\core\SaveMessagePort.java
+c:\Dev\Workspace\demo-hexagonal-microservice\microservice\src\main\java\br\com\microservice\domain\core\SaveMessageImpl.java
+c:\Dev\Workspace\demo-hexagonal-microservice\microservice\src\main\java\br\com\microservice\infrastructure\database\IRepositoryMessageEntity.java
+c:\Dev\Workspace\demo-hexagonal-microservice\microservice\src\main\java\br\com\microservice\domain\output\RepositoryMessagePort.java
+c:\Dev\Workspace\demo-hexagonal-microservice\microservice\src\main\java\br\com\microservice\infrastructure\database\entities\MessageEntity.java
+c:\Dev\Workspace\demo-hexagonal-microservice\microservice\src\main\java\br\com\microservice\infrastructure\mapper\Mapper.java
+c:\Dev\Workspace\demo-hexagonal-microservice\microservice\src\main\java\br\com\microservice\MicroserviceApplication.java

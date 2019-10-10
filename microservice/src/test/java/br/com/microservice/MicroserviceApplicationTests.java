@@ -8,8 +8,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import br.com.microservice.core.SaveMessagePort;
-import br.com.microservice.output.database.io.MessageEntity;
+import br.com.microservice.domain.core.SaveMessagePort;
+import br.com.microservice.domain.dto.MessageDTO;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
@@ -21,8 +21,8 @@ public class MicroserviceApplicationTests {
 	@Test
 	public void save() {
 		String teste = "teste";
-		MessageEntity entity = port.save(teste);
-		assertEquals(entity.getTexto(), teste);
+		MessageDTO message = port.save(teste);
+		assertEquals(message.getTexto(), teste);
 	}
 
 }
